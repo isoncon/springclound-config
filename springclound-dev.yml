@@ -1,3 +1,2 @@
-<config>
-       info:springclound-dev-config   version:1
-<config>
+config:
+       info: springclound-dev-config   version:1
